@@ -1,0 +1,15 @@
+body{
+    background-color: bisque;
+    
+}
+h1{
+    text-align: center;
+}
+.bioBox{
+   padding: 60px;
+   background-color: blue;
+    border: 10px;
+}
+.bioText{
+    
+}
