@@ -7,9 +7,9 @@ h1{
 }
 .bioBox{
    padding: 60px;
-   background-color: blue;
+   background-color: rgb(59, 52, 45);
     border: 10px;
-}
+};
 .bioText{
     
 }
