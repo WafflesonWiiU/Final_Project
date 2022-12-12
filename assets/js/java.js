@@ -1,9 +1,8 @@
-var imageVisibilty = true;
-var img 
-    function showImages(){
-       imageVisibilty = false;
-       if (imageVisibilty == false) {
-        var img = document.getElementById('productImages');
-        img.style.visibility = 'visible';
-       }
-      }
+function hideImages() {
+    var x = document.getElementById("productImages");
+    if (x.style.display === "none") {
+      x.style.display = "block";
+    } else {
+      x.style.display = "none";
+    }
+  }
