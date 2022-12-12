@@ -21,8 +21,9 @@ p{
 
 
 .Logo{
-  width: 100;
-  height: 100;
+  width: 50px;
+  height: 50px;
+  float: right;
 }
 
 .topnav {
@@ -49,3 +50,7 @@ p{
     color: white;
   }
 
+img {
+    width: 200px;
+    height: 300px;
+}
