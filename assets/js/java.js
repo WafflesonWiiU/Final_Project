@@ -1,3 +1,4 @@
+
 function hideImages() {
     var x = document.getElementById("productImages");
     if (x.style.display === "none") {
