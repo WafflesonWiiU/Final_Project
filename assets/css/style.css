@@ -1,15 +1,22 @@
 body{
-    background-color: bisque;
+    background-color: rgb(255, 229, 196);
     
 }
 h1{
     text-align: center;
 }
+p{
+    color: white;
+
+}
 .bioBox{
    padding: 60px;
    background-color: rgb(59, 52, 45);
     border: 10px;
-};
+}
 .bioText{
     
 }
+
+
+https://www.amazon.com/Treat-Christian-Vieler/dp/0316362204/ref=d_pd_sbs_sccl_4_58/141-0444931-3294922?pd_rd_w=hqL6I&content-id=amzn1.sym.85e69568-3310-47fa-b7d9-805300e523f6&pf_rd_p=85e69568-3310-47fa-b7d9-805300e523f6&pf_rd_r=AYS8W57N73AATG1AG7K3&pd_rd_wg=fTNZK&pd_rd_r=c0bf19bc-5860-4177-83d3-d4b09dc5b949&pd_rd_i=0316362204&psc=1
