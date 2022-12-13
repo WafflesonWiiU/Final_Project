@@ -14,9 +14,7 @@ p2 {
    background-color: rgb(59, 52, 45);
     border: 10px;
 }
-.bioText{
-    
-}
+
 
 
 
@@ -49,8 +47,10 @@ p2 {
     background-color: #3d121f;
     color: white;
   }
-
-img {
-    width: 200px;
-    height: 300px;
-}
+  .productImages {
+    width: 100%;
+    padding: 50px 0;
+    text-align: center;
+    margin-top: 20px;
+    display: block;
+  }
