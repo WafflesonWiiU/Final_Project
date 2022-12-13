@@ -18,9 +18,12 @@ p{
     
 }
 
+
+
 .Logo{
-  width: 100;
-  height: 100;
+  width: 50px;
+  height: 50px;
+  float: right;
 }
 
 .topnav {
@@ -52,4 +55,5 @@ p{
     text-align: center;
     background-color: lightblue;
     margin-top: 20px;
+    display: block;
   }
