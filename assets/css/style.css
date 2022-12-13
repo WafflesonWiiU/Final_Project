@@ -15,7 +15,11 @@ p2 {
     border: 10px;
 }
 
-
+img{
+  width: 200px;
+  height: 300px;
+  margin: 10px;
+}
 
 
 .Logo{
