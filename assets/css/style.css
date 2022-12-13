@@ -53,4 +53,5 @@ p{
     text-align: center;
     margin-top: 20px;
     display: block;
+    /*do not touch disply: block; it breaks the hide imgs function*/
   }
