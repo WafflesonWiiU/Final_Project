@@ -7,3 +7,6 @@ function hideImages() {
       x.style.display = "none";
     }
   }
+  function guessCheck(){
+    
+  }
