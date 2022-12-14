@@ -13,11 +13,20 @@ function hideImages() {
   function guessCheck(){
     if (z == document.getElementById("numberInput").value){
       console.log ("good")
+      document.getElementById("results").innerHTML = "you got the answer correct!";
+    }
+    else if (z > document.getElementById("numberInput").value){
+      document.getElementById("results").innerHTML = "guess higher";
+    }
+    else if (z < document.getElementById("numberInput").value){
+      document.getElementById("results").innerHTML = "guess less";
+    }
+      
     }
     
-  }
-  var z = Math.floor(Math.random() * 100)
+  
+  var z = Math.floor(Math.random() * 101)
 //generate a number
   function Rng(){
-     z = Math.floor(Math.random() * 100)
+     z = Math.floor(Math.random() * 101)
   }
