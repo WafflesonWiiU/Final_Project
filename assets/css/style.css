@@ -15,7 +15,10 @@ p2 {
     border: 10px;
 }
 
-
+img{
+  width: 200px;
+  height: 300px;
+}
 
 
 .Logo{
@@ -53,5 +56,4 @@ p2 {
     text-align: center;
     margin-top: 20px;
     display: block;
-    /*do not touch disply: block; it breaks the hide imgs function*/
   }
