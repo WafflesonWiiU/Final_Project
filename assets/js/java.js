@@ -29,4 +29,5 @@ function hideImages() {
 //generate a number
   function Rng(){
      z = Math.floor(Math.random() * 101)
+     document.getElementById("results").innerHTML = "new number take a guess!"
   }
