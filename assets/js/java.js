@@ -21,6 +21,9 @@ function hideImages() {
     else if (z < document.getElementById("numberInput").value){
       document.getElementById("results").innerHTML = "guess less";
     }
+    else {
+      document.getElementById("results").innerHTML = "Please put a number in";
+    }
       
     }
     
