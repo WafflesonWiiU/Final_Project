@@ -57,3 +57,12 @@ img{
     margin-top: 20px;
     display: block;
   }
+button{
+  margin: 30px;
+  background-color: #3d121f;
+  border: #3d121f;
+  color:white;
+  scale: 150%;
+  border-radius: 10px;
+  
+}

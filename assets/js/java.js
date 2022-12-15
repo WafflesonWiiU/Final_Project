@@ -1,3 +1,4 @@
+var products = ["natural wonders", "dogs in costumes", "birds", "bible verses", "baby animals", "animal friends", "flowers", "hymns", "kittens", "Psalms ", "dogs", "puppies"]
 
 //hide images when user clicks button
 function hideImages() {
