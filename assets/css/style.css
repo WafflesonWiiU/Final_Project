@@ -66,3 +66,10 @@ button{
   border-radius: 10px;
   
 }
+
+.Employees {
+  border-width: 4px;
+  border-color:black;
+  width: 250px;
+  height: 300px;
+}
